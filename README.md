@@ -13,9 +13,10 @@ To learn basic web scraping using `requests` and `BeautifulSoup`.
 - BeautifulSoup (bs4)
 
 ## 📁 Files
-- `scraper.py`: Main Python script
+- `web-scraper.py`: Main Python script
 - `headlines.txt`: Output file containing scraped headlines
 - `README.md`: Project documentation
+- `image.png`: Screenshot of Output
 
 ## 🛠️ How to Run
 1. Make sure you have Python installed.
@@ -28,10 +29,11 @@ To learn basic web scraping using `requests` and `BeautifulSoup`.
    python scraper.py
    ```
 4. Check the "headlines.txt" file for output.
+5. Exit
 
 ---
 
-## 📚 What You Learn
+## 📚 What To Learn
 
 1. How to send GET requests in Python
 
